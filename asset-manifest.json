@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/crickanalysis/static/css/main.261f0ca7.chunk.css",
+    "main.js": "/crickanalysis/static/js/main.8dad7290.chunk.js",
+    "main.js.map": "/crickanalysis/static/js/main.8dad7290.chunk.js.map",
+    "runtime-main.js": "/crickanalysis/static/js/runtime-main.8f3a7ada.js",
+    "runtime-main.js.map": "/crickanalysis/static/js/runtime-main.8f3a7ada.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/crickanalysis/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.922ab679.chunk.js": "/crickanalysis/static/js/2.922ab679.chunk.js",
+    "static/js/2.922ab679.chunk.js.map": "/crickanalysis/static/js/2.922ab679.chunk.js.map",
+    "static/js/3.eedb25a8.chunk.js": "/crickanalysis/static/js/3.eedb25a8.chunk.js",
+    "static/js/3.eedb25a8.chunk.js.map": "/crickanalysis/static/js/3.eedb25a8.chunk.js.map",
+    "index.html": "/crickanalysis/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/crickanalysis/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.261f0ca7.chunk.css.map": "/crickanalysis/static/css/main.261f0ca7.chunk.css.map",
+    "static/js/2.922ab679.chunk.js.LICENSE.txt": "/crickanalysis/static/js/2.922ab679.chunk.js.LICENSE.txt",
+    "static/media/collage.1b8d5a8d.png": "/crickanalysis/static/media/collage.1b8d5a8d.png",
+    "static/media/reportanalysis.39215c47.svg": "/crickanalysis/static/media/reportanalysis.39215c47.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f3a7ada.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.922ab679.chunk.js",
+    "static/css/main.261f0ca7.chunk.css",
+    "static/js/main.8dad7290.chunk.js"
+  ]
+}
