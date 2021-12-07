@@ -1,0 +1,79 @@
+.main__div {
+  width: 80%;
+  margin-left: 10%;
+  background: #bfbfbf;
+  -webkit-box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+          box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.api__main {
+  border-radius: 100px;
+}
+
+.api__main .api__main__left {
+  background-image: -webkit-gradient(linear, left top, right top, from(#101327), to(#303250));
+  background-image: linear-gradient(to right, #101327, #303250);
+  color: white;
+  padding: 2%;
+}
+
+.api__main .api__main__left .api__main__previewer {
+  width: 90%;
+  background: #939dd659;
+  height: 80%;
+}
+
+.api__main .api__main__left .right__right__right {
+  margin-top: 5%;
+}
+
+.api__main .api__main__left .download__icon {
+  margin-top: -10%;
+  margin-left: 30%;
+  color: black;
+}
+
+.api__main .api__main__left .download__icon :hover {
+  color: gray;
+}
+
+.api__main .api__main__left .download__icon .download__icon__size {
+  font-size: 170px;
+}
+
+.api__main .api__main__left .link__api {
+  margin: 4%;
+  background-color: #404040;
+  border-radius: 10px;
+  padding: 1%;
+}
+
+.api__main .api__main__left .link__api .api__icon {
+  font-size: 40px;
+  color: #d9d9d9;
+}
+
+.api__main .api__main__left .link__api .api__link {
+  margin-left: 7%;
+  color: white;
+  font-size: 25px;
+}
+
+.api__main .api__main__right {
+  color: white;
+  border-left: 3px solid #BBC4C2;
+  background-image: -webkit-gradient(linear, left top, right top, from(#101327), to(#303250));
+  background-image: linear-gradient(to right, #101327, #303250);
+}
+
+.api__main .api__main__right h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+.api__main .api__main__right .additional {
+  background-image: -webkit-gradient(linear, left top, right top, from(#101327), to(#303250));
+  background-image: linear-gradient(to right, #101327, #303250);
+}
+/*# sourceMappingURL=Api.css.map */

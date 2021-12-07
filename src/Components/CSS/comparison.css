@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.c__div {
+  width: 100%;
+  height: 550px;
+  background-color: #101327;
+  margin: 30px;
+}
+/*# sourceMappingURL=comparison.css.map */

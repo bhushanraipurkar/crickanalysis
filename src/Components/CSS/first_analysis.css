@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Readex+Pro:wght@200&family=Roboto:wght@300&display=swap");
+.foremost__div {
+  border: 2px solid #BBC4C2;
+}
+
+.list__list {
+  color: white;
+}
+
+.list__list .list__list__list:nth-of-type(odd) {
+  background-color: #101327;
+  text-align: center;
+}
+
+.list__list .list__list__list:nth-of-type(even) {
+  background-color: #262840;
+  text-align: center;
+}
+
+.right__division {
+  text-align: center;
+  -webkit-box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+          box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+  background-image: -webkit-gradient(linear, left top, right top, from(#101327), to(#262840));
+  background-image: linear-gradient(to right, #101327, #262840);
+  padding: 8%;
+  width: 100%;
+  margin-top: 5%;
+}
+
+.right__division h1 {
+  color: #f2f2f2;
+}
+
+.right__division .button {
+  background-image: -webkit-gradient(linear, left top, right top, from(#ACB6E5), to(#86FDE8));
+  background-image: linear-gradient(to right, #ACB6E5, #86FDE8);
+  margin-top: 8%;
+  margin-left: 40%;
+}
+
+.right__division p {
+  color: #b3b3b3;
+}
+
+.parent__div__for__graph h3 {
+  margin-top: 25%;
+  margin-left: 15%;
+}
+
+.parent__div__for__graph h1 {
+  margin-top: 2%;
+  margin-left: 15%;
+  margin-bottom: 5%;
+  color: #ba0606;
+}
+
+.parent__div__for__graph p {
+  text-align: center;
+  color: gray;
+}
+
+.graph__one {
+  height: 400px;
+  width: 340px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#101327), to(#262840));
+  background-image: linear-gradient(to right, #101327, #262840);
+  border-radius: 3px;
+  -webkit-box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+          box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+  color: black;
+}
+
+.graph__one h5 {
+  font-size: 20px;
+  color: #d9d9d9;
+  text-align: center;
+  padding-top: 10%;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+/*# sourceMappingURL=first_analysis.css.map */

@@ -1,0 +1,54 @@
+body{
+    background-color: #3c445d;
+}
+.card{
+    width: 25vw;
+    height: 45vh;
+    margin-left: 5%;
+    padding: 1%;
+    background-image: linear-gradient(to right, #101327 , #303250);
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+}
+
+.main {
+  position: relative;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid #272727;
+  overflow: hidden;
+}
+
+.fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: hotpink;
+}
+
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #272727;
+}
+
+.container {
+  width: 25vw;
+    height: 45vh;
+}
