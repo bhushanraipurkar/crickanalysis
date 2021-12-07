@@ -32,6 +32,7 @@ import DownloadingIcon from '@mui/icons-material/GitHub';
 import ApiIcon from '@mui/icons-material/Api';
 import IconButton from '@mui/material/IconButton';
 import Button from '@mui/material/Button';
+import analysis from "../images/reportanalysis.svg";
 
 
 
@@ -86,14 +87,14 @@ const props = useSpring({ width: open ? width : 0 })
       <div className="index__cool__div">
         <Grid container>
           <Grid item xs={3}><h2>Player Comparison </h2>
-          <div ref={ref} style={{margin:"12%"}} className="main" onClick={() => toggle(!open)}>
+          <div ref={ref} style={{margin:"12%",marginTop:"40%"}} className="main" onClick={() => toggle(!open)}>
         <animated.div className="fill" style={props} />
         <animated.div className="content">{props.width.to(x => x.toFixed(0))}</animated.div>
         {/* {props.width.to(x => x.toFixed(0))} */}
       </div>
-          <p>Just Select 2 players from right hand side division and you will see beautiful comparison between this two player 
+          {/* <p>Just Select 2 players from right hand side division and you will see beautiful comparison between this two player 
             in the form of beautiful Area Graph.<br/>This Comparison criteria is totally based on their total IPL score in perticular Year .
-          </p>
+          </p> */}
           </Grid>
           <Grid item xs={9} className="index__cool__div__right">
             <Grid container>
@@ -166,7 +167,7 @@ const props = useSpring({ width: open ? width : 0 })
             </p>
           </Grid>
           <Grid item xs={6}>
-            <img src="/reportanalysis.svg" alt="sample" />
+            <img src={analysis} alt="sample" />
           </Grid>
         </Grid>
       </div>

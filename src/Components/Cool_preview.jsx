@@ -1,11 +1,12 @@
 import React from 'react';
 import "./CSS/preview.css";
+import img1 from "../images/collage.png";
 
 const Cool_preview = () => {
     return (
       <>
         <div className="container">
-  <img src="collage.png" alt="Norway" style={{width:'85%',height:'500px',marginLeft:'-10%'}}/>
+  <img src={img1} alt="Norway" style={{width:'85%',height:'500px',marginLeft:'-10%'}}/>
   <div className="wrapper">
   <div className="animated-title">
   <div className="text-top">
